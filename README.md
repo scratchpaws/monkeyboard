@@ -1,6 +1,7 @@
 # Monkeyboard - yet another monkey keyboard  
 A board project that simulates a USB keyboard and mouse, and automatically types walls of meaningless text, simulating user activity.  
 Typing words periodically with the keyboard, separating words with spaces, and starting new sentences with a capital letter. In the course of work, the input is carried out at the typing speed of an ordinary user, with arbitrary intervals both between the input of characters and between the input of words. Periodically moves the mouse cursor over a limited distance and clicks with the left mouse button.  
+![a demo gif](https://raw.githubusercontent.com/scratchpaws/monkeyboard/main/demo.gif)  
 
 ## Resources and materials used  
 This project uses an Attiny85 based [Digispark USB development board](http://digistump.com/products/1) and [TrinketHidCombo](https://github.com/adafruit/Adafruit-Trinket-USB/tree/master/TrinketHidCombo) from [Adafruit-Trinket-USB](https://github.com/adafruit/Adafruit-Trinket-USB) project by [adafruit](https://github.com/adafruit).  
